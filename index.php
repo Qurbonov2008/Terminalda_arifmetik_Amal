@@ -4,7 +4,7 @@
 $status = readline("Iltimos Qo'shish, Ayirish, Ko'paytirish,Bo'lish shulardan birini tanlang va yozing: ");
 
 
-// Agar terminalda Qo'shish degan yozsangiz qo'shish amaliga o'tadi agar Ayirish deb yozsangiz  Ayirish amali bajariladi va hokazolar
+// Agar terminalda Qo'shish deb yozsangiz qo'shish amaliga o'tadi agar Ayirish deb yozsangiz  Ayirish amali bajariladi va hokazolar
 
 
 
